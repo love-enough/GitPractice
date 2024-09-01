@@ -12,4 +12,8 @@ git练习
 88888888
 >>>>>>> fenzhi1
 10101010
+<<<<<<< HEAD
 aaaaaaaa
+=======
+aaaaaaaa
+>>>>>>> 3fac556725c7e484bb0331a890cd702dfcd47138
